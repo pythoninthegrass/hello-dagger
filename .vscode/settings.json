@@ -1,0 +1,20 @@
+{
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+  },
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  // https://github.com/astral-sh/ruff-vscode
+  "python.analysis.ignore": [
+    "*"
+  ],
+  "ansible.python.interpreterPath": "/Users/lance/.asdf/shims/python",
+  "go.gopath": "~/.asdf/installs/golang/1.21.3/packages",
+  "go.goroot": "~/.asdf/installs/golang/1.21.3/go",
+  "go.testTimeout": "180s",
+  "go.toolsEnvVars": {
+    "GOPROXY": "https://proxy.golang.org,direct"
+  }
+}
