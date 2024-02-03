@@ -4,7 +4,7 @@ backoff==2.2.1
 beartype==0.16.4
 cattrs==23.2.3
 certifi==2023.11.17
-dagger-io==0.9.3
+dagger-io==0.9.8
 gql==3.4.1
 graphql-core==3.2.3
 h11==0.14.0
