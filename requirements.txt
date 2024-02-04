@@ -1,7 +1,7 @@
 anyio==4.2.0
 attrs==23.2.0
 backoff==2.2.1
-beartype==0.16.4
+beartype==0.17.0
 cattrs==23.2.3
 certifi==2023.11.17
 dagger-io==0.9.8
