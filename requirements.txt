@@ -5,7 +5,7 @@ beartype==0.17.0
 cattrs==23.2.3
 certifi==2023.11.17
 dagger-io==0.9.8
-gql==3.4.1
+gql==3.5.0
 graphql-core==3.2.3
 h11==0.14.0
 httpcore==1.0.2
