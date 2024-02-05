@@ -6,7 +6,7 @@ require (
 	github.com/99designs/gqlgen v0.17.43
 	github.com/Khan/genqlient v0.6.0
 	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
-	golang.org/x/sync v0.4.0
+	golang.org/x/sync v0.6.0
 )
 
 require (
