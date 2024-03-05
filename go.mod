@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	github.com/99designs/gqlgen v0.17.44
-	github.com/Khan/genqlient v0.6.0
+	github.com/Khan/genqlient v0.7.0
 	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225
 	golang.org/x/sync v0.6.0
 )
