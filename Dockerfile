@@ -1,4 +1,4 @@
-FROM node:16-slim AS builder
+FROM node:20-slim AS builder
 RUN mkdir /src
 COPY . /src/
 WORKDIR /src
