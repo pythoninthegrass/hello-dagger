@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/99designs/gqlgen v0.17.45
 	github.com/Khan/genqlient v0.7.0
-	golang.org/x/exp v0.0.0-20240409090435-93d18d7e34b8
+	golang.org/x/exp v0.0.0-20240416160154-fe59bbe5cc7f
 	golang.org/x/sync v0.7.0
 )
 
