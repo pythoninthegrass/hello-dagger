@@ -1,4 +1,4 @@
-anyio==4.3.0
+anyio==4.4.0
 attrs==23.2.0
 backoff==2.2.1
 beartype==0.18.5
