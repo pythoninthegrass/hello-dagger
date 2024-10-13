@@ -6,7 +6,7 @@ cattrs==23.2.3
 certifi==2023.11.17
 dagger-io==0.12.7
 gql==3.5.0
-graphql-core==3.2.3
+graphql-core==3.2.5
 h11==0.14.0
 httpcore==1.0.5
 httpx==0.27.2
